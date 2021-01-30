@@ -2,8 +2,6 @@
 
 ---
 
-[Readingday2_01_2017_DeJuan_Pierskalla_PolSoc.pdf](De%20Juan%20and%20Pierskalla%202017%20e29dc4fcda1a488090614437bbea4b3e/Readingday2_01_2017_DeJuan_Pierskalla_PolSoc.pdf)
-
 ### Full Citation:
 
 De Juan, Alexander and Jan Henryk Pierskalla. 2017. "The Comparative Politics of Colonialism and Its Legacies: An Introduction." *Politics & Society* 45(2): 159-172.
