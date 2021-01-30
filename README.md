@@ -33,6 +33,8 @@ Research.” *International Studies Quarterly*, 39(2): 213–233.
     2. Gartzke, Erik and Dominic Rohner. 2011. “The Political Economy of Imperialism, Decolonization, and Development.” *British Journal
 of Political Science*, 41(3): 525–56.
 
+      + Lecture slides: [Decolonization and the Global South](https://github.com/pherephobia/SP21POLI101/blob/main/W2_slides/R2_Decolonization_Global_South.pdf)
+
 ### 02/05 Identity Politics: nationalism, religion, and ethnicity
 
   + Room A
