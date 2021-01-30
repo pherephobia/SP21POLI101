@@ -2,8 +2,6 @@
 
 ---
 
-[Readingday2_02_2011_Gartzke_Rohner_bjps.pdf](Gartzke%20and%20Rohner%202011%207b94deeee19f434f86938b04159391c7/Readingday2_02_2011_Gartzke_Rohner_bjps.pdf)
-
 ### Full Citation:
 
 Gartzke, Erik and Dominic Rohner. 2011. "The Political Economy of Imperialism, Decolonization and Development." *British Journal of Political Science* 41: 525-556.
