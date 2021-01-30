@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Teaching Assistant}{3}{0}{1}
+\beamer@sectionintoc {2}{De Juan and Pierskalla 2017}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{The Comparative Politics of Colonialism and Its Legacies: An Introduction}{7}{0}{2}
+\beamer@sectionintoc {3}{Gartzke and Rohner 2011}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{The Political Economy of Imperialism, Decolonization, and Development}{19}{0}{3}
+\beamer@sectionintoc {4}{Summaries}{46}{0}{4}
