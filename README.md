@@ -129,7 +129,7 @@ Studies Quarterly*, 49(3): 439-457.
   + Room A
   
     1. McKeown, Timothy J. 1991. “A Liberal Trade Order? The Long-Run Pattern of Imports to the Advanced Capitalist States.” International Studies Quarterly, 35(2): 151–172.
-    2. Hegre, H\r{o}vard, et al. 2010. “Trade does promote peace: New simultaneous estimates of the reciprocal effects of trade and conflict.” *Journal of Peace Research*, 47(6): 763-774.
+    2. Hegre, H$\r{o}$vard, et al. 2010. “Trade does promote peace: New simultaneous estimates of the reciprocal effects of trade and conflict.” *Journal of Peace Research*, 47(6): 763-774.
   
   + Room B
   
