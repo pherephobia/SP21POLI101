@@ -63,6 +63,10 @@ Choice in Seventeenth-Century England.” *The Journal of Economic History*, 49(
   
     1. Boix, Carles and Susan C. Stokes. ”Endogenous Democratization.” *World Politics*, 55(4): 517-549.
     2. Wucherpfennig, Julian and Franziska Deutch. 2009. “Modernization and Democracy: Theories and Evidence Revisited.” *Living Reviews in Democracy*.
+      + Lecture slides: [Economic Development](https://github.com/pherephobia/SP21POLI101/blob/main/W4_slides/R4_Economic_Development.pdf)
+      + Reading Summaries:
+        1. [Boix and Stokes 2003](https://github.com/pherephobia/SP21POLI101/blob/main/W4_slides/Boix%20and%20Stokes%202003%20c62cc143fa8445ee8662e9266b58c09d.md)
+        2. [Wucherpfenning and Deutsch 2009](https://github.com/pherephobia/SP21POLI101/blob/main/W4_slides/Wucherpfenning%20and%20Deutsch%202009%201742ee1f13a7445c9db9fb2c45bd76d1.md)
 
 ### 02/22 Poverty and inequality
 
