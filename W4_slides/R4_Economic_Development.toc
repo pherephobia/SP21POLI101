@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Before We Start}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Causality}{3}{0}{1}
+\beamer@sectionintoc {2}{Wucherpfenning and Deutsch. 2009.}{16}{0}{2}
+\beamer@subsectionintoc {2}{1}{Modernization and Democracy: Theories and Evidence Revisited}{16}{0}{2}
+\beamer@sectionintoc {3}{Boix and Stokes. 2003.}{24}{0}{3}
+\beamer@subsectionintoc {3}{1}{Endogenous Democratization}{24}{0}{3}
+\beamer@sectionintoc {4}{Summaries}{38}{0}{4}
