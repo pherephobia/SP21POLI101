@@ -1,17 +1,5 @@
 # Wucherpfenning and Deutsch. 2009.
 
-Class: POLI 101
-Importance: ★★★★★
-Methods: Theory-driven, case study
-Source: Living Reviews in Democracy
-Subfield: CP
-Tag: Major
-Topic1: Outcome
-Topic2: Democracy
-Topic3: Economic growth
-Type: Article
-Year: 2009
-
 ### Full Citation:
 
 Wucherpfenning, Julian, and Franziska Deutsch. 2009. "Modernization and Democracy: Theories and Evidence Revisited." *Living Reviews in Democracy* 1: 1-9.
