@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Reminder}{3}{0}{1}
+\beamer@sectionintoc {2}{King and Rebelo. 1990.}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Public Policy and Economic Growth: Developing Neoclassical Implications}{5}{0}{2}
+\beamer@sectionintoc {3}{Duflo. 2012.}{29}{0}{3}
+\beamer@subsectionintoc {3}{1}{Women Empowerment and Economic Development}{29}{0}{3}
+\beamer@sectionintoc {4}{Summaries \& Questions}{49}{0}{4}
