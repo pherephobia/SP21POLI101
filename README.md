@@ -81,6 +81,11 @@ Choice in Seventeenth-Century England.” *The Journal of Economic History*, 49(
     
     2. King, Robert G. and Rebelo, Sergio. (1990) “Public Policy and Economic Growth: Developing Neoclassical Implications.” *Journal
 of Political Economy*. 98(5): 126-150.
+      + Lecture slides: [Poverty and Inequality](https://github.com/pherephobia/SP21POLI101/blob/main/W6_slides/R5_Poverty_Inequality.pdf)
+      + Reading Summaries:
+        1. [Duflo 2012](https://github.com/pherephobia/SP21POLI101/blob/main/W6_slides/Duflo%202012%20d40ab468b65f4e3ca717e4889744e9e1.md)
+        2. [King and Rebelo 1990](https://github.com/pherephobia/SP21POLI101/blob/main/W6_slides/King%20and%20Rebelo%201990%20d6c21f86f8cf4ecdac8c3ea12fb26839.md)
+
 
 ### 03/01 Democracy and human rights
 
