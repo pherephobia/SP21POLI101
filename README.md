@@ -103,7 +103,7 @@ Studies Quarterly*, 49(3): 439-457.
     1. Collier, Paul, and Anke Hoeffler. 2004. “Greed and grievance in civil war.” *Oxford Economic Papers*, 56: 563–595.
     2. Brush, Stephen G. 1996. “Dynamics of Theory Change in the Social Sciences.” *Journal of Conflict Resolution*, 40(4): 523-545.
     
-  + **Room B (Sanghoon Park)**
+  + Room B 
   
     1. Fearon, James D. and David D. Laitin. 2003. "Ethnicity, Insurgency, and CivilWar." *American Political Science Review*, 97(1):75–90.
     2. Weinstein, Jeremy M. 2006. "Introduction." In *Inside Rebellion: The Politics of Insurgent Violence*. Cambridge University Press.
@@ -139,7 +139,7 @@ Studies Quarterly*, 49(3): 439-457.
     1. McKeown, Timothy J. 1991. “A Liberal Trade Order? The Long-Run Pattern of Imports to the Advanced Capitalist States.” International Studies Quarterly, 35(2): 151–172.
     2. Hegre, Hovard, et al. 2010. “Trade does promote peace: New simultaneous estimates of the reciprocal effects of trade and conflict.” *Journal of Peace Research*, 47(6): 763-774.
   
-  + Room B
+  + **Room B (Sanghoon Park)**
   
     1. Milner, Helen V. 1999. “The Political Economy of International Trade.” *Annual Review of Political Science*, 2: 91-114.
     2. Porojan, A. 2001. “Trade Flows and Spatial Effects: The Gravity Model Revisited.” *Open Economies Review*, 12: 265-280.
